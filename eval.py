@@ -28,7 +28,7 @@ def get_puzzle_solution(image_path):
                     "content": [
                         {
                             "type": "text",
-                            "text": "Solve the word puzzle in the image"
+                            "text": "Solve the word puzzle in the image. The answer is a common phrase, idiom, or saying."
                         },
                         {
                             "type": "image_url",
