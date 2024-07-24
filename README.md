@@ -2,7 +2,7 @@
   <img width="150" height="150" src="https://github.com/user-attachments/assets/ef39da50-0e21-4e44-b140-0a9acceb67cf">
 </p>
 
-## The Rainier Bottlecap AGI Challenge
+## The Rainier Beer Bottlecap AGI Challenge
 
 There's a lot of talk about AGI these days (how close is it? when will AI replace our jobs? are they smarter than college students?).
 
