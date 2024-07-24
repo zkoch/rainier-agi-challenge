@@ -32,7 +32,8 @@ The ARC prize is offering $1,000,000. That's cool, but you know what's even cool
 
 | Provider      | Score         |
 | ------------- | ------------- |
-| OpenAI GPT-4o  | ~11%  |
+| OpenAI GPT-4o  | ~8%  |
+| Claude 3.5 Sonnet  | ~4%  |
 
 ### FAQ
 
